@@ -1,0 +1,11 @@
+a:hover{
+    color: bisque;
+    letter-spacing: 100px;
+    font-size: 200;
+}
+
+body{
+    background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
